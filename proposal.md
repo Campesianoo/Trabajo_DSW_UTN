@@ -15,7 +15,6 @@ Diariamente los clientes ingresan a la aplicación para reservar un turno y real
 ### Modelo
 https://drive.google.com/file/d/1_nS8bmaKZF69zily-P3Q4HlUUluL-mYP/view?usp=sharing
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
@@ -26,5 +25,6 @@ https://drive.google.com/file/d/1_nS8bmaKZF69zily-P3Q4HlUUluL-mYP/view?usp=shari
 |Listado<br>+<br>detalle| 1. Listado de Clientes con membresia vencida=> detalle CRUD Cliente <br> 2. Listado de clases del dia => detalle muestra los clientes anotados en la clase|
 |CUU/Epic|CUU_1  Reservar turno para realizar una actividad en un determinado día y horario.<br> CUU2_ Registrar asistencia del alumno a la clase|
 
+La data registrada por el CUU_1 sirve como Input para el CUU_2.
 
 
