@@ -3,7 +3,9 @@
 ## Grupo
 ### Integrantes
 * 50390 - Cabardos, Matias
-
+  52331 - Degiovanni, Bianca
+  52199 - Kasperczak, Ian
+  
 ### Repositorios
 
 
