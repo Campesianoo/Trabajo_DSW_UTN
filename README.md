@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1_nS8bmaKZF69zily-P3Q4HlUUluL-mYP/view?usp=shari
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Cliente <br>2. CRUD Profesor <br>3. CRUD Salon <br>4. CRUD Especialidad|
-|CRUD dependiente|1. CRUD Actividad {depende de} CRUD Profesor y CRUD Salon <br>2. CRUD Membresia {depende de} CRUD Cliente|
+|CRUD dependiente|1. CRUD Actividad {depende de} CRUD Profesor y CRUD Salon <br>2. CRUD Membresia {depende de} CRUD Cliente  <br>3. CURD Rutina {depende de} CRUD Cliente y CRUD Profesor|
 |Listado<br>+<br>detalle| 1. Listado de Clientes con membresia vencida=> detalle CRUD Cliente <br> 2. Listado de clases del dia => detalle muestra los clientes anotados en la clase|
 |CUU/Epic|CUU_1  Reservar turno para realizar una actividad en un determinado día y horario.<br> CUU2_ Registrar asistencia del alumno a la clase|
 
